@@ -1,4 +1,4 @@
-# This file contains exercise solution for altschool cloud engineering track (exercise 6. The following are outputs of these commands: 
+# This file contains exercise solution for altschool cloud engineering track (exercise 6). The following are outputs of these commands: 
 - `git config -l` : This command lists all the configuration settings that have been set for a **git** installation. It shows both global and repository-specific configurations. The `-l` flag stands for "list".
  
 - `git remote -v` : This command displays the remote repositories that your local Git repository is connected to. The `-v` flag stands for "verbose", which means it will show more detailed information, such as the URLs associated with each remote name.
