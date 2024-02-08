@@ -7,7 +7,7 @@
 
 
 
-### git config -l
+## 1.  git config -l
 user.name=Simeon Udoh
 user.email=simeon.udoh45@gmail.com
 core.repositoryformatversion=0
@@ -20,12 +20,12 @@ branch.main.remote=origin
 branch.main.merge=refs/heads/main
 
 
-### git remote -v
+## 2.  git remote -v
 
 origin	git@github.com:0xSimeon/altschool-cloud-notes-and-exercises.git (fetch)
 origin	git@github.com:0xSimeon/altschool-cloud-notes-and-exercises.git (push)
 
-### git log
+## 3.  git log
 commit be51e7ba2de88bfeb455e6b475b380061e02f659
 Author: Simeon Udoh <simeon.udoh45@gmail.com>
 Date:   Wed Feb 7 03:52:39 2024 +0000
